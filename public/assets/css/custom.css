@@ -1,0 +1,12 @@
+/*used in purchase and sales report table*/
+
+.table-heading {
+    width: 180px;
+}
+
+
+/*used in category table*/
+
+.cat_table_heading {
+    width: 250px;
+}
